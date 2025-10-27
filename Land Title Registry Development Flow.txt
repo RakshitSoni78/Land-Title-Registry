@@ -6,7 +6,7 @@ Short Development Flow for Blockchain-based Land Title Registry Project
    - Choose blockchain: Ethereum, Polygon, or Hyperledger (for private networks).
 
 2. Design System Architecture
-   - Frontend: React.js / Next.js
+   - Frontend: React.js
    - Backend: Node.js / Express
    - Smart Contracts: Solidity (for Ethereum-compatible chains) or Chaincode (for Hyperledger)
    - Database: IPFS (for document storage) + PostgreSQL/MongoDB (for metadata and user info)
