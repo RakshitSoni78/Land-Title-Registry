@@ -22,7 +22,6 @@ To revolutionize property management and land ownership verification through blo
 
 ## 🔗 Contract Details
 0x65ce13FfAB703F520F1eA1efcBcfE38C7A154bd4
-*(Replace with the actual deployed contract address once available)*
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9beab751-fc83-4b26-875d-173a6d31ac04" />
 
@@ -32,5 +31,6 @@ To revolutionize property management and land ownership verification through blo
 ```bash
 git clone https://github.com/yourusername/Land-Title-Registry.git
 cd Land-Title-Registry
+
 
 
